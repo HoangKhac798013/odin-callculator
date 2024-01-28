@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+}
+
+#numpad {
+    /* display: flex;
+    flex-direction: row; */
+}
+
+#operations {
+    /* display: flex; */
+}
+
+button {
+    width: 30px;
+    height: 30px;
+}
